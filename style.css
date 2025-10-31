@@ -1,0 +1,36 @@
+* {
+    /* border: 1px solid red; */
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: aliceblue;
+    margin: 100px auto;
+}
+
+h1{
+    padding: 0px auto;
+    text-align: center;
+}
+
+ul {
+    margin: 10px auto;
+    text-align: center;
+    list-style-type: none;
+}
+
+li.recipes-list {
+    display: inline;
+    color: black;
+    background-color: wheat;
+    border: 0px;
+    border-radius: 5px;
+    padding: 1px 5px;
+    margin: 0px 5px;
+}
+
+a {
+    text-decoration: none;
+    color:inherit;
+}
